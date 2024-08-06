@@ -1,3 +1,17 @@
 div{
     display: block;
 }
+
+#container{
+    border: solid 2px black;
+    padding: 1%;
+    width: 30%;
+    margin: 50px auto auto auto;
+    height: fit-content;
+}
+
+#result-screen{
+    height: 10px;
+    width: auto;
+    border: solid 1px black;
+}
